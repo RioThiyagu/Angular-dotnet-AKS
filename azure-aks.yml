@@ -40,7 +40,7 @@ spec:
     protocol: TCP
   selector:
     app: angular-webapp
-  type: ClusterIP
+  type: LoadBalancer
 
 
 
